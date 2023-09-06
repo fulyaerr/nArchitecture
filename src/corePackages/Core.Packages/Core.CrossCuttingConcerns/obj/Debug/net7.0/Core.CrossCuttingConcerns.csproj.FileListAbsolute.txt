@@ -1,0 +1,12 @@
+C:\Github Project\nArchitecture\src\corePackages\Core.Packages\Core.CrossCuttingConcerns\bin\Debug\net7.0\Core.CrossCuttingConcerns.deps.json
+C:\Github Project\nArchitecture\src\corePackages\Core.Packages\Core.CrossCuttingConcerns\bin\Debug\net7.0\Core.CrossCuttingConcerns.dll
+C:\Github Project\nArchitecture\src\corePackages\Core.Packages\Core.CrossCuttingConcerns\bin\Debug\net7.0\Core.CrossCuttingConcerns.pdb
+C:\Github Project\nArchitecture\src\corePackages\Core.Packages\Core.CrossCuttingConcerns\obj\Debug\net7.0\Core.CrossCuttingConcerns.csproj.AssemblyReference.cache
+C:\Github Project\nArchitecture\src\corePackages\Core.Packages\Core.CrossCuttingConcerns\obj\Debug\net7.0\Core.CrossCuttingConcerns.GeneratedMSBuildEditorConfig.editorconfig
+C:\Github Project\nArchitecture\src\corePackages\Core.Packages\Core.CrossCuttingConcerns\obj\Debug\net7.0\Core.CrossCuttingConcerns.AssemblyInfoInputs.cache
+C:\Github Project\nArchitecture\src\corePackages\Core.Packages\Core.CrossCuttingConcerns\obj\Debug\net7.0\Core.CrossCuttingConcerns.AssemblyInfo.cs
+C:\Github Project\nArchitecture\src\corePackages\Core.Packages\Core.CrossCuttingConcerns\obj\Debug\net7.0\Core.CrossCuttingConcerns.csproj.CoreCompileInputs.cache
+C:\Github Project\nArchitecture\src\corePackages\Core.Packages\Core.CrossCuttingConcerns\obj\Debug\net7.0\Core.CrossCuttingConcerns.dll
+C:\Github Project\nArchitecture\src\corePackages\Core.Packages\Core.CrossCuttingConcerns\obj\Debug\net7.0\refint\Core.CrossCuttingConcerns.dll
+C:\Github Project\nArchitecture\src\corePackages\Core.Packages\Core.CrossCuttingConcerns\obj\Debug\net7.0\Core.CrossCuttingConcerns.pdb
+C:\Github Project\nArchitecture\src\corePackages\Core.Packages\Core.CrossCuttingConcerns\obj\Debug\net7.0\ref\Core.CrossCuttingConcerns.dll

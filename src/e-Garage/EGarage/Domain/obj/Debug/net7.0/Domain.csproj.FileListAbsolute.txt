@@ -1,0 +1,15 @@
+C:\Github Project\nArchitecture\src\e-Garage\EGarage\Domain\bin\Debug\net7.0\Domain.deps.json
+C:\Github Project\nArchitecture\src\e-Garage\EGarage\Domain\bin\Debug\net7.0\Domain.dll
+C:\Github Project\nArchitecture\src\e-Garage\EGarage\Domain\bin\Debug\net7.0\Domain.pdb
+C:\Github Project\nArchitecture\src\e-Garage\EGarage\Domain\bin\Debug\net7.0\Core.Persistence.dll
+C:\Github Project\nArchitecture\src\e-Garage\EGarage\Domain\bin\Debug\net7.0\Core.Persistence.pdb
+C:\Github Project\nArchitecture\src\e-Garage\EGarage\Domain\obj\Debug\net7.0\Domain.csproj.AssemblyReference.cache
+C:\Github Project\nArchitecture\src\e-Garage\EGarage\Domain\obj\Debug\net7.0\Domain.GeneratedMSBuildEditorConfig.editorconfig
+C:\Github Project\nArchitecture\src\e-Garage\EGarage\Domain\obj\Debug\net7.0\Domain.AssemblyInfoInputs.cache
+C:\Github Project\nArchitecture\src\e-Garage\EGarage\Domain\obj\Debug\net7.0\Domain.AssemblyInfo.cs
+C:\Github Project\nArchitecture\src\e-Garage\EGarage\Domain\obj\Debug\net7.0\Domain.csproj.CoreCompileInputs.cache
+C:\Github Project\nArchitecture\src\e-Garage\EGarage\Domain\obj\Debug\net7.0\Domain.csproj.CopyComplete
+C:\Github Project\nArchitecture\src\e-Garage\EGarage\Domain\obj\Debug\net7.0\Domain.dll
+C:\Github Project\nArchitecture\src\e-Garage\EGarage\Domain\obj\Debug\net7.0\refint\Domain.dll
+C:\Github Project\nArchitecture\src\e-Garage\EGarage\Domain\obj\Debug\net7.0\Domain.pdb
+C:\Github Project\nArchitecture\src\e-Garage\EGarage\Domain\obj\Debug\net7.0\ref\Domain.dll
